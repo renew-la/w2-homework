@@ -29,6 +29,10 @@ This will test:
 
 + DO NOT add any more files or use any JavaScript codes for this challenge. 
 
+## Testing
+
+To test your progress and see your work in the browser - simply navigate to your project directory + open `index.html`
+
 Good Luck!
 
 ### Resources:
