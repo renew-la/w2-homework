@@ -1,4 +1,4 @@
-# W2 Homework: Google Clone!
+# Homework: Google Clone!
 
 This week, you're going to be building a clone of the Google home page, one of the mostly visited pages in the world. Google itself is a successful company popular for it's highly efficient searched engine built with a meticulous algorithm.
 
@@ -24,7 +24,7 @@ This will test:
 
 
 ## Getting Started
-1. Fork this repository to create a copy of it on your GitHub account
+1. Fork this repository to create a copy of it on your GitHub account (only do this the first time)
 2. Navigate to your forked homework repository
 3. Click "Clone or Download" (green button) 
 4. Select "Open in Desktop" - you should have the Desktop app installed before doing this
@@ -45,10 +45,11 @@ To test your progress and see your work in the browser - simply navigate to your
 
 ## Submitting your work
 
-1. In GitHub Desktop - it should show all your code changes already.  Make sure to **commit** your changes (bottom left) with a summary description
+1. In GitHub Desktop - it should show all your code changes already.  Make sure to **commit** your changes (section in the bottom left) with a summary description
 2. After committing, the center navigation should be clear
 3. Click "Push Origin" on the top
-4. Great job!
+4. Now your work is saved to your GitHub repo - great job!
+5. You can always "push your code" to your repo so that accessible anywhere you have Internet
 
 Good Luck!
 
