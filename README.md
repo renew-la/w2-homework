@@ -1,6 +1,6 @@
 # Homework: Google Clone!
 
-This week, you're going to be building a clone of the Google home page, one of the mostly visited pages in the world. Google itself is a successful company popular for it's highly efficient searched engine built with a meticulous algorithm.
+Over the next two weeks, you're going to be building a clone of the Google home page, one of the mostly visited pages in the world. Google itself is a successful company popular for it's highly efficient searched engine built with a meticulous algorithm.
 
 **The challenge is to get as far as you can in 3 hours!**
 
@@ -55,7 +55,7 @@ To test your progress and see your work in the browser - simply navigate to your
 ![desktop-2](/imgs/desktop-2.png)
 
 4. Now your work is saved to your GitHub repo - great job!
-5. You can always "push your code" to your repo so that accessible anywhere you have Internet
+5. You can always "push your code" to your repo so that it's accessible anywhere you have Internet
 
 Good Luck!
 
