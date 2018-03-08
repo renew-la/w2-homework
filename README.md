@@ -59,9 +59,25 @@ To test your progress and see your work in the browser - simply navigate to your
 
 Good Luck!
 
+## Tips
++ DON’T BE A PERFECTIONIST! You’re just trying to make it look like google.com, not actually function like it and it doesn’t have to be spaced exactly the same way to the pixel. Any dropdown menus or form submissions or hover-highlighting should be ignored (unless you can do it!).
+
++ USE GOOGLE! You’ll probably run into roadblocks where you can’t figure out how to do something so do what all good devs do… Google it!
+
++ If you’re frustrated with trying to get buttons or inputs to style the way you want (for instance, they seem to just not respond to any styles), look into the css property -webkit-appearance: none; or -moz-appearance if you’re using Firefox.
+
++ Start with just putting the main elements on the page (the logo image and search form), then get them placed horizontally. You can either download the Google logo or link directly to its URL on the web in your <img> tag.
+
++ Next do the navbar across the top, first building the content and then trying to position it. Check out [how to build a horizontal CSS navbar if you’re lost](https://www.w3schools.com/css/css_navbar.asp).
+
++ Finally, put in the footer, which should be very similar to the top navbar.
+
++ In general, do as much on your own as you can before relying on the developer tools (or viewing the page’s source code) to help you along.
+Push your project to Github using the instructions above!
+
 ### Resources:
-- <http://www.w3schools.com/js/js_htmldom.asp>
-- <https://css-tricks.com/snippets/css/a-guide-to-flexbox/>
-- <https://www.w3schools.com/tags/tag_img.asp>
-- <https://www.w3schools.com/tags/tag_a.asp>
+- [FLEXBOX](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+- [img tags](https://www.w3schools.com/tags/tag_img.asp)
+- [anchor tags](https://www.w3schools.com/tags/tag_a.asp)
+- [How to build a navbar](https://www.w3schools.com/css/css_navbar.asp)
 - Google!!!!
