@@ -43,6 +43,13 @@ This will test:
 
 To test your progress and see your work in the browser - simply navigate to your project directory + open `index.html`
 
+## Submitting your work
+
+1. In GitHub Desktop - it should show all your code changes already.  Make sure to **commit** your changes (bottom left) with a summary description
+2. After committing, the center navigation should be clear
+3. Click "Push Origin" on the top
+4. Great job!
+
 Good Luck!
 
 ### Resources:
