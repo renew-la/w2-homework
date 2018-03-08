@@ -26,8 +26,8 @@ This will test:
 ## Getting Started
 1. Fork this repository to create a copy of it on your GitHub account (only do this the first time)
 2. Navigate to your forked homework repository
-3. Click "Clone or Download" (green button) 
-4. Select "Open in Desktop" - you should have the Desktop app installed before doing this
+3. Click **"Clone or Download"** (green button) 
+4. Select **"Open in Desktop"** - you should have the Desktop app installed before doing this
 5. Follow the instructions to download the repo to your computer
 6. Have fun coding!
 
