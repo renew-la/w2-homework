@@ -46,8 +46,14 @@ To test your progress and see your work in the browser - simply navigate to your
 ## Submitting your work
 
 1. In GitHub Desktop - it should show all your code changes already.  Make sure to **commit** your changes (section in the bottom left) with a summary description
+
+![desktop-1](/imgs/desktop-1.png)
+
 2. After committing, the center navigation should be clear
 3. Click "Push Origin" on the top
+
+![desktop-2](/imgs/desktop-2.png)
+
 4. Now your work is saved to your GitHub repo - great job!
 5. You can always "push your code" to your repo so that accessible anywhere you have Internet
 
