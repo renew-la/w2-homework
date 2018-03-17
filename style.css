@@ -1,5 +1,12 @@
 body {
   font-family: arial, sans-serif;
 }
+#container {
+  border: 50px;
+  /* make this a flexbox container */
+  /* set width & height */
+  /* center children */
+
+}
 
 /* CODE GOES BELOW */
