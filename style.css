@@ -3,3 +3,7 @@ body {
 }
 
 /* CODE GOES BELOW */
+p {
+  border: 5px grey;
+  border-radius: 5px; 
+}
