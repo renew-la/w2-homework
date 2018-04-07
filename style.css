@@ -8,5 +8,31 @@ body {
   /* center children */
 
 }
+.foot{
+  border: 1px solid #d3d3d3;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  background-color: #f2f2f2;
+  bottom: 0;
+  height: 25px;
+  position: absolute;
+  width: 100%;
 
+}
+#left-footer{
+  display: flex;
+  justify-content: space-between;
+  width:300px;
+  color: #222;
+  padding: 5px 5px 5px 5px;
+  /* justify-content: left; */
+
+}
+#right-footer{
+  display:flex;
+  justify-content: space-between;
+  width: 300px;
+  padding: 5px 5px 5px 5px;
+}
 /* CODE GOES BELOW */
