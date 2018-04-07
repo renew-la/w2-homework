@@ -50,4 +50,37 @@ justify-content: space-around;
   flex-direction:row;
   justify-content: space-around;
 }
+#headercontainer{
+  display: flex;
+  justify-content: flex-end;
+  align-items:center;
+  padding-top: 20px;
+  padding-right: 15px;
+ }
+ #header{
+  display: flex;
+  justify-content: space-around;
+  flex-direction: row;
+  align-items: center;
+ width: 300px;
+ }
+ #Gmail{
+  display: flex;
+  text-align: right;
+ 
+ }
+ #Signin{
+  display: flex;
+ border: 3px solid rgb(9, 128, 232);
+ background-color: rgb(9, 128, 232);
+ color: white;
+ align-items: center;
+ justify-content:center;
+ width: 100px;
+ height: 40px;
+ font-size: 20px;
+ }
+ #Google{
+  display: flex;
+ }
 /* CODE GOES BELOW */
